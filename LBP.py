@@ -1,5 +1,7 @@
 '''
-	Basic 3x3 Local Binary Patterns
+    author: Jackson Antonio do Prado Lima <jacksonpradolima at gmail dot com>
+
+	This class implements the basic 3x3 Local Binary Patterns
 '''
 import cv2
 import numpy as np
