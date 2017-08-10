@@ -6,3 +6,10 @@ Local Binary Patterns with Python &amp; OpenCV applied on Simpsons
 1. Install OpenCV - version 3.3.0: https://github.com/BVLC/caffe/wiki/OpenCV-3.2-Installation-Guide-on-Ubuntu-16.04
 2. Install: scipy matplotlib scikit-learn imutils
 
+## How to run
+
+### Example
+
+```python
+python main_app.py -i data/simpsons/Test/bart116.jpg
+```
